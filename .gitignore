@@ -1,0 +1,43 @@
+# Build outputs and dependencies
+__pycache__/
+*.py[cod]
+.venv*/
+node_modules/
+build/
+bin/
+obj/
+publish/
+vendor/
+models/
+qa-output/
+.test-data/
+.tools/
+.openai/
+# Private local data and credentials
+data/
+DeviceBridge-data/
+signing/
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite*
+*.log
+*.pid
+*.bak
+# Distributables belong in GitHub Releases
+*.exe
+*.dll
+*.pyd
+*.zip
+*.7z
+*.pdb
+*.idsig
+Ready-to-use*/
+Phone-app-*/
+release/
+dist/
