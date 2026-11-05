@@ -5,6 +5,12 @@
 
 Native Windows Qt Widgets app, branded **Powered by Tweest**, using the supplied Twisted Imagez logo. All window backgrounds, dialogs and preview surfaces use a dark palette. There is no embedded website.
 
+## Screenshot
+
+![Tweest MediaVault library showing search, filters and cached thumbnails](docs/screenshots/library.png)
+
+Library view with generated sample media.
+
 ## Daily use
 
 Open Tweest MediaVault from the packaged executable or installer-created shortcut. Add or drop a folder to index photos and video thumbnails. No source is scanned until you add it or press Rescan. Start with a representative sample rather than the entire archive.
