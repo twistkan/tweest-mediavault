@@ -1,9 +1,8 @@
 # Tweest MediaVault
 
+**[Download for Windows](https://github.com/twistkan/tweest-mediavault/releases/download/v0.2.9/TweestMediaVaultSetup-0.2.9.exe)** · [Release notes and checksums](https://github.com/twistkan/tweest-mediavault/releases/tag/v0.2.9)
+
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support%20Twist%20Apps-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.yotip.me/twistkan)
-
-**Windows download:** [Latest release](https://github.com/twistkan/tweest-mediavault/releases/latest). This repository contains source code; packaged executables are in Releases.
-
 
 Native Windows Qt Widgets app, branded **Powered by Tweest**, using the supplied Twisted Imagez logo. All window backgrounds, dialogs and preview surfaces use a dark palette. There is no embedded website.
 
